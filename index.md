@@ -20,3 +20,5 @@ intro:
 Body
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
+
+안녕하세요! 한양대학교 인공지능학과 배소현입니다.
